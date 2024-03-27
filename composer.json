@@ -1,14 +1,14 @@
 {
-    "name": "andrej-griniuk/cakephp-two-factor-auth",
+    "name": "zegert/cakephp-two-factor-auth",
     "description": "CakePHP auth component and provider fot two-factor authentication",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "auth", "two-factor"],
-    "homepage": "http://github.com/andrej-griniuk/cakephp-two-factor-auth",
+    "homepage": "http://github.com/zegert/cakephp-two-factor-auth",
     "license": "MIT",
     "authors": [
         {
-            "name": "Andrej Griniuk",
-            "email": "andrej.griniuk@gmail.com"
+            "name": "Zegert Boele",
+            "email": "contact@zegert.nl"
         }
     ],
     "require": {
